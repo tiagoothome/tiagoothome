@@ -1,5 +1,4 @@
 ## Bem-vindo(a) ao meu perfil 😁
-#link para a aula#
 
  <div>
    <a href="https://github.com/tiagothome">
